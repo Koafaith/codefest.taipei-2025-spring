@@ -875,6 +875,11 @@
             }
         ]
     },
+    "footer": {
+        "organizer": ["新北市政府資訊中心", "臺北市政府資訊局"],
+        "co_organizer": [],
+        "implementer": []
+    },
     "contact": {
         "address_ntpc": "220242 新北市板橋區中山路一段161號",
         "address_tpe": "110204 臺北市信義區市府路1號",
